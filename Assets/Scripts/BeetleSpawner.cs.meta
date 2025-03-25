@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 94c95665f91328e4daaf2e199562cb1d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - beetlePrefab: {fileID: 5775094126257831503, guid: a5ee1f23ada2b3d41822e3888f70d3e0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
